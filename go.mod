@@ -13,20 +13,20 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
-	github.com/sirupsen/logrus v1.7.0
-	github.com/spf13/cobra v1.1.1
+	github.com/sirupsen/logrus v1.8.1
+	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
 	go.opencensus.io v0.22.3
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
-	golang.org/x/time v0.0.0-20210611083556-38a9dc6acbc6
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	gotest.tools v2.2.0+incompatible
-	k8s.io/api v0.21.3
-	k8s.io/apimachinery v0.21.3
-	k8s.io/apiserver v0.21.3
-	k8s.io/client-go v0.21.3
+	k8s.io/api v0.22.2
+	k8s.io/apimachinery v0.22.2
+	k8s.io/apiserver v0.22.2
+	k8s.io/client-go v0.22.2
 	k8s.io/klog v1.0.0
-	k8s.io/klog/v2 v2.8.0
-	k8s.io/utils v0.0.0-20210527160623-6fdb442a123b
+	k8s.io/klog/v2 v2.9.0
+	k8s.io/utils v0.0.0-20210819203725-bdf08cb9a70a
 	sigs.k8s.io/controller-runtime v0.9.2
 )
